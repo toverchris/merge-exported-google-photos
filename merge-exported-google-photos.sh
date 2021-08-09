@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #You have to enter your own Path where your Google Photos are located#
-cd /Users/christopherhohm/Private/Google-Photos
+cd ~/Private/Google-Photos
 
 mkdir All-Merged-Google-Photos
 
